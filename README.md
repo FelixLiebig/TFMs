@@ -1,2 +1,1 @@
-[👉 Klicke hier, um das Notebook in Google Colab zu öffnen](https://colab.research.google.com/github/FelixLiebig/TFMs/blob/main/notebook.ipynb)
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/FelixLiebig/TFMs/blob/main/notebook.ipynb]
