@@ -1,9 +1,9 @@
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/FelixLiebig/TFMs/blob/main/notebook.ipynb)
 
 
-![KNIME Logo](images/knime-logo.png)
+![KNIME](https://img.shields.io/badge/KNIME-Analytics%20Platform-FFD800?style=for-the-badge&logo=knime&logoColor=black)
 ## KNIME-Workflow
-Das Repository enthält den Workflow-Ordner `dein-knime-ordner`. 
+Das Repository enthält den Workflow-Ordner `KNIME_TabularFoundationModel`. 
 
 **Öffnen in KNIME:**
 1. KNIME Analytics Platform öffnen.
