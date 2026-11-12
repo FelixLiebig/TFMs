@@ -8,10 +8,10 @@
         <entry key="authored-by" type="xstring" value="felixliebig"/>
         <entry key="authored-when" type="xstring" value="2026-10-27 13:17:01 +0100"/>
         <entry key="lastEdited-by" type="xstring" value="felixliebig"/>
-        <entry key="lastEdited-when" type="xstring" value="2026-10-27 16:09:28 +0100"/>
+        <entry key="lastEdited-when" type="xstring" value="2026-11-12 12:07:40 +0100"/>
     </config>
     <entry key="customDescription" type="xstring" isnull="true" value=""/>
-    <entry key="state" type="xstring" value="EXECUTED"/>
+    <entry key="state" type="xstring" value="IDLE"/>
     <config key="workflow_credentials"/>
     <config key="nodes">
         <config key="node_2">
@@ -114,13 +114,13 @@
     <config key="connections">
         <config key="connection_0">
             <entry key="sourceID" type="xint" value="2"/>
-            <entry key="destID" type="xint" value="4"/>
+            <entry key="destID" type="xint" value="6"/>
             <entry key="sourcePort" type="xint" value="1"/>
             <entry key="destPort" type="xint" value="1"/>
         </config>
         <config key="connection_1">
             <entry key="sourceID" type="xint" value="2"/>
-            <entry key="destID" type="xint" value="6"/>
+            <entry key="destID" type="xint" value="4"/>
             <entry key="sourcePort" type="xint" value="1"/>
             <entry key="destPort" type="xint" value="1"/>
         </config>
