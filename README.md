@@ -5,9 +5,14 @@ Dieses Projekt enthält ein interaktives Google Colab Notebook, mit dem du den C
 ### Notebook öffnen
 Klicke auf den folgenden Button, um das Notebook direkt in Google Colab zu starten:
 
+### Notebook Vergleich (Kundenabwanderung)
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/FelixLiebig/TFMs/blob/main/notebook.ipynb)
 
 <br>
+
+### Notebook Vergleich (Beton)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/FelixLiebig/TFMs/blob/main/Betonfestigkeit_RF_vs_TabPFN.ipynb)
+
 <br>
 
 
